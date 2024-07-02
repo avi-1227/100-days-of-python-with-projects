@@ -25,6 +25,16 @@ What I have learned in Day-2 topics as mentioned below.
 9. [floor //](#floor)
 8. [f String](#fstring)
 
+# Day -3 Control flow and Logical Operators
+
+What I have learned in Day-3 topics as mentioned below.
+
+## Table of Contents
+1. [if/else](#if/else)
+2. [if/elif](#if/elif) 
+2. [Logical Operators](#LogicalOperators) - and, or, not 
+
+
 
 
 
